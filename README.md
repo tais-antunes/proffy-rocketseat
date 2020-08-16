@@ -1,4 +1,4 @@
-# proffy-rocketseat
+# :octocat: proffy-rocketseat :octocat:
 Proffy - Plataforma de estudos online
 
 --- 
