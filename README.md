@@ -32,14 +32,14 @@ O NLW da Rocketseat, com o intuito de desafiar e levar os devs da comunidade par
 
 ### Formulário para cadastro de Proffys na plataforma :rocket:
 <img src="https://github.com/tais-antunes/proffy-rocketseat/blob/master/public/images/projeto-final/proffy2.PNG">
-**Formulário**
+__Formulário__
 - Preencha com seus dados todos os campos e sobre seu horário e matéria que você da aula 
 
 ---
 
 ### Busca por Proffys disponíveis conforme horário e matéria :rocket:
 <img src="https://github.com/tais-antunes/proffy-rocketseat/blob/master/public/images/projeto-final/proffy3.PNG">
-**Busca Proffys**
+__Busca Proffys__
 - Para buscar um Proffy basta selecionar o dia da semana em que deseja estudar, escolher a matéria e horário. Assim o filtro irá trazer o Proffys disponiveis com os requisitos que foi escolhido
 
 
